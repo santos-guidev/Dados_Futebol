@@ -1,0 +1,15 @@
+{
+  "country": "ARGENTINA",
+  "season": "2026",
+  "scrape_date": "2026-03-24T17:22:01.673759",
+  "total_leagues": 1,
+  "leagues": [
+    {
+      "name": "Torneo Betano 2026",
+      "url": "https://www.flashscore.com/football/argentina/torneo-betano-2026/results/",
+      "total_matches": 0,
+      "scraped_matches": 0,
+      "matches": []
+    }
+  ]
+}

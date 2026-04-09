@@ -1,15 +1,3 @@
-{
-  "country": "JAPAN",
-  "season": "2026",
-  "scrape_date": "2026-01-26T09:54:36.665359",
-  "total_leagues": 1,
-  "leagues": [
-    {
-      "name": "J1 League 2026",
-      "url": "https://www.flashscore.com/football/japan/j1-league-2026/results/",
-      "total_matches": 0,
-      "scraped_matches": 0,
-      "matches": []
-    }
-  ]
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:2a233aa715ddb66b6141b00d586cf5d42578b9b09d1db0866a4e7e77564bc3b0
+size 333

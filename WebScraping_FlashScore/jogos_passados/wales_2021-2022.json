@@ -1,15 +1,3 @@
-{
-  "country": "WALES",
-  "season": "2021-2022",
-  "scrape_date": "2026-01-18T12:50:02.573482",
-  "total_leagues": 1,
-  "leagues": [
-    {
-      "name": "Cymru Premier 2021 2022",
-      "url": "https://www.flashscore.com/football/wales/cymru-premier-2021-2022/results/",
-      "total_matches": 0,
-      "scraped_matches": 0,
-      "matches": []
-    }
-  ]
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:85af8c2be30463cb83b52f81906b761889cd8188a986bc1f5b31160d197c5948
+size 356
