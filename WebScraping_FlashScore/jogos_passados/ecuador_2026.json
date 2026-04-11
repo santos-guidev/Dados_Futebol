@@ -1,15 +1,3 @@
-{
-  "country": "ECUADOR",
-  "season": "2026",
-  "scrape_date": "2026-01-26T09:53:47.258711",
-  "total_leagues": 1,
-  "leagues": [
-    {
-      "name": "Liga Pro 2026",
-      "url": "https://www.flashscore.com/football/ecuador/liga-pro-2026/results/",
-      "total_matches": 0,
-      "scraped_matches": 0,
-      "matches": []
-    }
-  ]
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:1c277a91184f144de96459dd21ba3ee501b978c267303aff9c150e564c0fe3c3
+size 335

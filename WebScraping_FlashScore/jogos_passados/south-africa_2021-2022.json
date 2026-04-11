@@ -1,15 +1,3 @@
-{
-  "country": "SOUTH-AFRICA",
-  "season": "2021-2022",
-  "scrape_date": "2026-01-18T12:49:01.471279",
-  "total_leagues": 1,
-  "leagues": [
-    {
-      "name": "Betway Premiership 2021 2022",
-      "url": "https://www.flashscore.com/football/south-africa/betway-premiership-2021-2022/results/",
-      "total_matches": 0,
-      "scraped_matches": 0,
-      "matches": []
-    }
-  ]
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:faf234908f56c938ebeea1cc6c0fc5562288c19c12ed16e5ba38b7da2937662a
+size 380

@@ -1,36 +1,3 @@
-{
-  "country": "SPAIN",
-  "season": "2021-2022",
-  "scrape_date": "2026-01-18T12:49:09.088594",
-  "total_leagues": 4,
-  "leagues": [
-    {
-      "name": "Laliga 2021 2022",
-      "url": "https://www.flashscore.com/football/spain/laliga-2021-2022/results/",
-      "total_matches": 0,
-      "scraped_matches": 0,
-      "matches": []
-    },
-    {
-      "name": "Laliga2 2021 2022",
-      "url": "https://www.flashscore.com/football/spain/laliga2-2021-2022/results/",
-      "total_matches": 0,
-      "scraped_matches": 0,
-      "matches": []
-    },
-    {
-      "name": "Primera Rfef Group 1 2021 2022",
-      "url": "https://www.flashscore.com/football/spain/primera-rfef-group-1-2021-2022/results/",
-      "total_matches": 0,
-      "scraped_matches": 0,
-      "matches": []
-    },
-    {
-      "name": "Primera Rfef Group 2 2021 2022",
-      "url": "https://www.flashscore.com/football/spain/primera-rfef-group-2-2021-2022/results/",
-      "total_matches": 0,
-      "scraped_matches": 0,
-      "matches": []
-    }
-  ]
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:1ced6b997cb3bc0e54819126bd3ca290aafd2fad29ed1194e70b239be97bd5ee
+size 1015

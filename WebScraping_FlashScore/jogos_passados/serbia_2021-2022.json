@@ -1,15 +1,3 @@
-{
-  "country": "SERBIA",
-  "season": "2021-2022",
-  "scrape_date": "2026-01-18T12:48:38.582687",
-  "total_leagues": 1,
-  "leagues": [
-    {
-      "name": "Mozzart Bet Super Liga 2021 2022",
-      "url": "https://www.flashscore.com/football/serbia/mozzart-bet-super-liga-2021-2022/results/",
-      "total_matches": 0,
-      "scraped_matches": 0,
-      "matches": []
-    }
-  ]
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:25366667ab83b1d5d3eba9a0e99d94dccd6082eb27e46d8df3b448ffba409948
+size 376
